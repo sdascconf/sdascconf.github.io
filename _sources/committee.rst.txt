@@ -1,0 +1,16 @@
+=========
+Committee
+=========
+
+Tentative Committee Members:
+
+* Piotr Luszczek, University of Tennessee, USA
+* Hartwig Anzt, Karlsruher Institute f\"ur Technologie, Germany
+* Prabhat, NERSC, Lawrence Berkeley National Laboratory, USA
+* Wayne Joubert, Oak Ridge  National Laboratory, USA
+* Miroslav Stoyanov, Oak Ridge  National Laboratory, USA
+* Luigi Nardi, Stanford University, USA
+* Marat Dukhan, Facebook Inc., USA
+* Xipeng Shen, North Carolina State University, USA
+* Rick Stevens, Argonne National Laboratory, USA
+* Dan Jacobson, Oak Ridge  National Laboratory, USA
